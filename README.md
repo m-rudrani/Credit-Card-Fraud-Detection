@@ -1,6 +1,6 @@
-# 🚀 Credit Card Fraud Detection
+# Credit Card Fraud Detection
 
-## 📌 Project Overview
+## Project Overview
 This project implements **Credit Card Fraud Detection** using **XGBoost**, a powerful gradient boosting algorithm. The dataset is highly imbalanced, so techniques like **SMOTE oversampling** and **PCA for dimensionality reduction** are used to improve performance.
 
 ## Dataset
